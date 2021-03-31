@@ -1,3 +1,17 @@
+Configurar e-mail
+git config --global user.email "e-mail"
+
+Configurar Repositório no GitHub
+git remote add Endereço
+
+Criar repositório
+git init
+
+Adicionar
 git add NomeDoArquivo
-git commit NomeDoArquivo -m Mensagem
-git push -u origin main
+
+Colocar no repositório
+git commit NomeDoArquivo -m "Mensagem"
+
+Enviar para o GitHub
+git push origin master
